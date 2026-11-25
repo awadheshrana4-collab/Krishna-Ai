@@ -1,0 +1,6 @@
+{
+  "name": "Gita Saar",
+  "description": "Offline-capable Bhagavad Gita companion with Sanskrit, Hindi, and English verses, daily shloka streaks, memorization game, audio recitation, highlights, notes, and Krishna AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

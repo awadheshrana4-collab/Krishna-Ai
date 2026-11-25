@@ -1,0 +1,657 @@
+{
+  "chapterNumber": 2,
+  "nameSanskrit": "सांख्ययोग",
+  "nameTransliteration": "Sankhya Yoga",
+  "nameHindi": "ज्ञान और कर्म का सार",
+  "nameEnglish": "The Yoga of Wisdom",
+  "shlokas": [
+    {
+      "chapter": 2,
+      "verse": 1,
+      "speaker": "सञ्जय उवाच",
+      "sanskrit": "तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्।\nविषीदन्तमिदं वाक्यमुवाच मधुसूदनः॥",
+      "transliteration": "tam tatha kripayavishtamashrupurnakulekshanam |\nvishidantamidam vakyamuvacha madhusudanah ||",
+      "hindi": "संजय बोले: करुणा से भरे, आँसुओं से डबडबाई आँखों वाले और उदास बैठे अर्जुन से श्रीकृष्ण ने ये वचन कहे।",
+      "english": "Sanjaya said: Seeing Arjuna overcome with pity, his eyes clouded with tears and his heart sinking in grief, Krishna spoke these words."
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "speaker": "श्रीभगवानुवाच",
+      "sanskrit": "कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्।\nअनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन॥",
+      "transliteration": "kutastva kashmalamidam vishame samupasthitam |\nanaryajushtamasvargyamakirtikaramarjuna ||",
+      "hindi": "श्रीकृष्ण बोले: हे अर्जुन! इस कठिन घड़ी में तुम्हारे मन में यह कमजोरी कहाँ से आ गई? यह न तो श्रेष्ठ जनों को शोभा देती है, न शांति देती है और न यश बढ़ाती है।",
+      "english": "Krishna said: O Arjuna, from where has this faintness of heart come upon you in this critical hour? It is unworthy of a noble spirit, brings neither inner peace nor honor."
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "speaker": "",
+      "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते।\nक्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप॥",
+      "transliteration": "klaibyam ma sma gamah partha naitattvayyupapadyate |\nkshudram hridayadaurbalyam tyaktvottishtha parantapa ||",
+      "hindi": "हे पार्थ! कायरता को मत अपनाओ; यह तुम्हें शोभा नहीं देती। हृदय की इस तुच्छ दुर्बलता को त्यागकर खड़े हो जाओ।",
+      "english": "Do not give in to helplessness, O Partha; it does not befit you. Shake off this petty weakness of heart and arise!"
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "speaker": "अर्जुन उवाच",
+      "sanskrit": "कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन।\nइषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन॥",
+      "transliteration": "katham bhishmamaham sankhye dronam cha madhusudana |\nishubhih pratiyotsyami pujarhavarisudana ||",
+      "hindi": "अर्जुन बोले: हे मधुसूदन! मैं युद्धभूमि में पितामह भीष्म और गुरु द्रोण के विरुद्ध बाण कैसे चलाऊँ? वे दोनों तो मेरे लिए परम पूजनीय हैं।",
+      "english": "Arjuna replied: O Madhusudana, how can I shoot arrows in battle against Bhishma and Drona, who are both worthy of my deepest reverence?"
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "speaker": "",
+      "sanskrit": "गुरूनहत्वा हि महानुभावान्श्रेयो भोक्तुं भैक्ष्यमपीह लोके।\nहत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान्रुधिरप्रदिग्धान्॥",
+      "transliteration": "gurunahatva hi mahanubhavanshreyo bhoktum bhaikshyamapiha loke |\nhatvarthakamamstu gurunihaiva bhunjiya bhoganrudhirapradigdhan ||",
+      "hindi": "इन महान गुरुजनों का वध करने से कहीं अच्छा है कि मैं इस संसार में भिक्षा माँगकर जीवन बिताऊँ। इन्हें मारकर मिलने वाले सुख तो रक्त से सने होंगे।",
+      "english": "Better to live by begging in this world than to harm such noble elders. Any wealth or comfort gained by defeating them would feel stained with sorrow."
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "speaker": "",
+      "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः।\nयानेव हत्वा न जिजीविषामस्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः॥",
+      "transliteration": "na chaitadvidmah kataranno gariyo yadva jayema yadi va no jayeyuh |\nyaneva hatva na jijivishamaste vasthitah pramukhe dhartarashtrah ||",
+      "hindi": "हम यह भी नहीं समझ पा रहे कि हमारे लिए क्या बेहतर है—हमारी जीत या उनकी जीत। जिन्हें मारकर हम जीना भी नहीं चाहते, वही कौरव हमारे सामने खड़े हैं।",
+      "english": "We cannot even tell which outcome is better for us—whether we win or they defeat us. Standing right before us are the very relatives without whom we have no wish to live."
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "speaker": "",
+      "sanskrit": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्॥",
+      "transliteration": "karpanyadoshopahatasvabhavah prichchhami tvam dharmasammudhachetah |\nyachchhreyah syannishchitam bruhi tanme shishyaste ham shadhi mam tvam prapannam ||",
+      "hindi": "मोह और दुर्बलता से मेरा स्वभाव व्याकुल हो गया है और मैं अपने कर्तव्य को लेकर उलझन में हूँ। मैं आपका शिष्य बनकर आपकी शरण में आया हूँ—कृपया बताइए कि मेरे लिए वास्तव में क्या कल्याणकारी है।",
+      "english": "My clarity is clouded by helplessness and I am confused about my true duty. I come to you as a humble student seeking refuge—please guide me clearly toward what is truly right."
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "speaker": "",
+      "sanskrit": "न हि प्रपश्यामि ममापनुद्याद्यच्छोकमुच्छोषणमिन्द्रियाणाम्।\nअवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम्॥",
+      "transliteration": "na hi prapashyami mamapanudyadyachchhokamuchchhoshanamindriyanam |\navapya bhumavasapatnamriddham rajyam suranamapi chadhipatyam ||",
+      "hindi": "धरती का समृद्ध निष्कंटक राज्य या देवताओं का स्वामित्व मिल जाने पर भी मुझे ऐसा कोई उपाय नहीं दिखता जो मेरी इंद्रियों को सुखा देने वाले इस शोक को दूर कर सके।",
+      "english": "Even if I were to gain an unrivaled, prosperous kingdom on earth or rule over the heavens, I see nothing that could heal this grief draining my senses."
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "speaker": "सञ्जय उवाच",
+      "sanskrit": "एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तपः।\nन योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह॥",
+      "transliteration": "evamuktva hrishikesham gudakeshah parantapah |\nna yotsya iti govindamuktva tushnim babhuva ha ||",
+      "hindi": "संजय बोले: श्रीकृष्ण से इतना कहकर अर्जुन ने स्पष्ट कहा, 'मैं युद्ध नहीं करूँगा,' और फिर चुपचाप बैठ गए।",
+      "english": "Sanjaya said: Having spoken thus to Krishna, Arjuna declared, 'I will not fight,' and fell completely silent."
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "speaker": "",
+      "sanskrit": "तमुवाच हृषीकेशः प्रहसन्निव भारत।\nसेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः॥",
+      "transliteration": "tamuvacha hrishikeshah prahasanniva bharata |\nsenayorubhayormadhye vishidantamidam vachah ||",
+      "hindi": "हे भरतवंशी! तब दोनों सेनाओं के बीच शोक में डूबे हुए अर्जुन से श्रीकृष्ण ने कोमल मुस्कान के साथ ये शब्द कहे।",
+      "english": "Then, right between the two armies, Krishna smiled gently and spoke these words to the grieving Arjuna."
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "speaker": "श्रीभगवानुवाच",
+      "sanskrit": "अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे।\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः॥",
+      "transliteration": "ashochyananvashochastvam prajnavadamshcha bhashase |\ngatasunagatasumshcha nanushochanti panditah ||",
+      "hindi": "श्रीकृष्ण बोले: तुम उनके लिए शोक कर रहे हो जिनके लिए शोक करना उचित नहीं, फिर भी विद्वानों जैसी बातें कर रहे हो। सच्चे ज्ञानी न तो जाने वालों का शोक करते हैं और न जीवित रहने वालों का।",
+      "english": "Krishna said: You grieve for those who need not be grieved for, yet you speak words that sound wise. The truly wise lament neither for the departed nor for the living."
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "speaker": "",
+      "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः।\nन चैव न भविष्यामः सर्वे वयमतः परम्॥",
+      "transliteration": "na tvevaham jatu nasam na tvam neme janadhipah |\nna chaiva na bhavishyamah sarve vayamatah param ||",
+      "hindi": "ऐसा कभी नहीं था कि मैं, तुम या ये सभी राजा न रहे हों; और न ही भविष्य में ऐसा कभी होगा कि हम सब न रहें।",
+      "english": "There was never a time when I did not exist, nor you, nor any of these rulers; nor will any of us ever cease to exist in the future."
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "speaker": "",
+      "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति॥",
+      "transliteration": "dehino sminyatha dehe kaumaram yauvanam jara |\ntatha dehantarapraptirdhirastatra na muhyati ||",
+      "hindi": "जिस प्रकार इस शरीर में जीवात्मा बचपन, जवानी और बुढ़ापे की अवस्थाओं से गुजरती है, उसी प्रकार वह दूसरा शरीर भी प्राप्त करती है। धैर्यवान व्यक्ति इस बदलाव से घबराता नहीं।",
+      "english": "Just as the indwelling soul passes smoothly through childhood, youth, and old age in this body, so does it pass into another body. A steady person is not bewildered by this change."
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "speaker": "",
+      "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥",
+      "transliteration": "matrasparshastu kaunteya shitoshnasukhaduhkhadah |\nagamapayino nityastamstitikshasva bharata ||",
+      "hindi": "हे कुन्तीपुत्र! इंद्रियों और बाहरी विषयों का संपर्क ही सर्दी-गर्मी और सुख-दुख का अनुभव कराता है। ये आते-जाते रहते हैं और स्थायी नहीं हैं; इसलिए इन्हें धैर्यपूर्वक सहन करो।",
+      "english": "O son of Kunti, sensory experiences bring feelings of heat and cold, pleasure and pain. They come and go and never last forever; endure them calmly with patience."
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "speaker": "",
+      "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ।\nसमदुःखसुखं धीरं सोऽमृतत्वाय कल्पते॥",
+      "transliteration": "yam hi na vyathayantyete purusham purusharshabha |\nsamaduhkhasukham dhiram so mritatvaya kalpate ||",
+      "hindi": "हे श्रेष्ठ पुरुष! जो धैर्यवान व्यक्ति सुख और दुख दोनों में समभाव रखता है और इन उतार-चढ़ावों से विचलित नहीं होता, वही अमर शांति का अधिकारी बनता है।",
+      "english": "The steady person who remains calm and balanced in both joy and sorrow, unshaken by passing experiences, becomes ready for true inner freedom."
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "speaker": "",
+      "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः।\nउभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः॥",
+      "transliteration": "nasato vidyate bhavo nabhavo vidyate satah |\nubhayorapi drishto ntastvanayostattvadarshibhih ||",
+      "hindi": "जो असत्य और क्षणिक है उसका स्थायी अस्तित्व नहीं होता, और जो सत्य है उसका कभी अभाव नहीं होता। सत्य को जानने वालों ने इन दोनों का वास्तविक स्वभाव भली-भाँति देखा है।",
+      "english": "What is unreal has no lasting existence, and what is truly real never ceases to be. Those who see clearly understand the deep truth of both."
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "speaker": "",
+      "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्।\nविनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति॥",
+      "transliteration": "avinashi tu tadviddhi yena sarvamidam tatam |\nvinashamavyayasyasya na kashchitkartumarhati ||",
+      "hindi": "जिस चेतन तत्व से यह संपूर्ण जगत व्याप्त है, उसे अविनाशी जानो। इस अविनाशी आत्मा का विनाश करने में कोई भी समर्थ नहीं है।",
+      "english": "Know that the consciousness pervading all of existence is indestructible. No one has the power to destroy that eternal reality."
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "speaker": "",
+      "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः।\nअनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत॥",
+      "transliteration": "antavanta ime deha nityasyoktah sharirinah |\nanashino prameyasya tasmadyudhyasva bharata ||",
+      "hindi": "अमर, अविनाशी और असीम आत्मा के ये भौतिक शरीर तो एक दिन समाप्त होने वाले हैं। इसलिए हे भरतवंशी, अपने कर्तव्य का पालन करते हुए युद्ध करो।",
+      "english": "Only these physical bodies come to an end; the eternal, immeasurable soul within never perishes. Therefore, arise and fulfill your duty, O Bharata."
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "speaker": "",
+      "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्।\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते॥",
+      "transliteration": "ya enam vetti hantaram yashchainam manyate hatam |\nubhau tau na vijanito nayam hanti na hanyate ||",
+      "hindi": "जो व्यक्ति आत्मा को मारने वाला समझता है और जो इसे मरा हुआ मानता है—वे दोनों ही सत्य को नहीं जानते; क्योंकि आत्मा न किसी को मारती है और न किसी के द्वारा मारी जाती है।",
+      "english": "Whoever believes the soul can slay, or thinks the soul can be slain, fails to understand the truth. The soul neither kills nor can ever be killed."
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "speaker": "",
+      "sanskrit": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः।\nअजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥",
+      "transliteration": "na jayate mriyate va kadachinnayam bhutva bhavita va na bhuyah |\najo nityah shashvato yam purano na hanyate hanyamane sharire ||",
+      "hindi": "यह आत्मा न कभी जन्म लेती है और न कभी मरती है। यह अजन्मा, नित्य, शाश्वत और सनातन है; शरीर के नष्ट हो जाने पर भी यह नष्ट नहीं होती।",
+      "english": "The soul is never born and never dies; it has no beginning and no end. Unborn, eternal, timeless, and ancient, it is untouched even when the body perishes."
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "speaker": "",
+      "sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम्।\nकथं स पुरुषः पार्थ कं घातयति हन्ति कम्॥",
+      "transliteration": "vedavinashinam nityam ya enamajamavyayam |\nkatham sa purushah partha kam ghatayati hanti kam ||",
+      "hindi": "हे पार्थ! जो मनुष्य इस आत्मा को अविनाशी, नित्य, अजन्मा और अव्यय जानता है, वह भला किसी को कैसे मार सकता है या मरवा सकता है?",
+      "english": "O Partha, how can a person who knows the soul to be indestructible, eternal, unborn, and unchanging ever truly slay anyone or cause anyone to be slain?"
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "speaker": "",
+      "sanskrit": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि।\nतथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही॥",
+      "transliteration": "vasamsi jirnani yatha vihaya navani grihnati naro parani |\ntatha sharirani vihaya jirnanyanyani samyati navani dehi ||",
+      "hindi": "जैसे मनुष्य पुराने वस्त्रों को उतारकर नए वस्त्र धारण कर लेता है, वैसे ही आत्मा पुराने शरीर को त्यागकर नया शरीर धारण करती है।",
+      "english": "Just as a person sets aside worn-out clothes and puts on fresh garments, the soul leaves behind an aging body and steps into a new one."
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "speaker": "",
+      "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः।\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः॥",
+      "transliteration": "nainam chhindanti shastrani nainam dahati pavakah |\nna chainam kledayantyapo na shoshayati marutah ||",
+      "hindi": "इस आत्मा को न शस्त्र काट सकते हैं, न अग्नि जला सकती है, न जल इसे भिगो सकता है और न हवा इसे सुखा सकती है।",
+      "english": "Weapons cannot pierce the soul, fire cannot burn it, water cannot drench it, and wind cannot dry it away."
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "speaker": "",
+      "sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च।\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः॥",
+      "transliteration": "achchhedyo yamadahyo yamakledyo shoshya eva cha |\nnityah sarvagatah sthanurachalo yam sanatanah ||",
+      "hindi": "यह आत्मा न कट सकती है, न जल सकती है, न भीग सकती है और न सूख सकती है। यह नित्य, सर्वव्यापी, स्थिर, अचल और सनातन है।",
+      "english": "Beyond cutting, burning, wetting, or drying, the soul is everlasting, all-pervading, steady, immovable, and timeless."
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "speaker": "",
+      "sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते।\nतस्मादेवं विदित्वैनं नानुशोचितुमर्हसि॥",
+      "transliteration": "avyakto yamachintyo yamavikaryo yamuchyate |\ntasmadevam viditvainam nanushochitumarhasi ||",
+      "hindi": "इसे अदृश्य, अचिन्त्य और निर्विकार कहा गया है। आत्मा के इस स्वरूप को समझ लेने के बाद तुम्हें शोक नहीं करना चाहिए।",
+      "english": "The soul is beyond sensory sight, beyond ordinary thought, and untouched by change. Knowing this truth, you have no reason to grieve."
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "speaker": "",
+      "sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्।\nतथापि त्वं महाबाहो नैवं शोचितुमर्हसि॥",
+      "transliteration": "atha chainam nityajatam nityam va manyase mritam |\ntathapi tvam mahabaho naivam shochitumarhasi ||",
+      "hindi": "हे महाबाहो! यदि तुम यह भी मानो कि आत्मा बार-बार जन्म लेती और मरती है, तब भी तुम्हें इस प्रकार शोक नहीं करना चाहिए।",
+      "english": "Even if you were to view the self as continually born and continually dying, O strong-armed one, even then there would be no cause for such sorrow."
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "speaker": "",
+      "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि॥",
+      "transliteration": "jatasya hi dhruvo mrityurdhruvam janma mritasya cha |\ntasmadapariharye rthe na tvam shochitumarhasi ||",
+      "hindi": "क्योंकि जिसने जन्म लिया है उसकी मृत्यु निश्चित है, और जिसकी मृत्यु हुई है उसका पुनः जन्म निश्चित है। जो बात टाली नहीं जा सकती, उसके लिए शोक करना व्यर्थ है।",
+      "english": "For whoever is born, death is certain; and for whatever dies, renewal is certain. Therefore, do not mourn over what is inevitable."
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "speaker": "",
+      "sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत।\nअव्यक्तनिधनान्येव तत्र का परिदेवना॥",
+      "transliteration": "avyaktadini bhutani vyaktamadhyani bharata |\navyaktanidhananyeva tatra ka paridevana ||",
+      "hindi": "हे भरतवंशी! सभी प्राणी जन्म से पहले अदृश्य होते हैं, बीच के समय में दिखाई देते हैं और अंत में फिर अदृश्य हो जाते हैं। इसमें विलाप करने की क्या बात है?",
+      "english": "All beings are unmanifest before birth, visible for a brief middle span, and unmanifest again at the end. What reason is there to despair over this cycle?"
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "speaker": "",
+      "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः।\nआश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित्॥",
+      "transliteration": "ashcharyavatpashyati kashchidenamashcharyavadvadati tathaiva chanyah |\nashcharyavachchainamanyah shrinoti shrutvapyenam veda na chaiva kashchit ||",
+      "hindi": "कोई इस आत्मा को अद्भुत आश्चर्य के रूप में देखता है, कोई आश्चर्य से इसका वर्णन करता है, और कोई विस्मय से इसे सुनता है; फिर भी सुनकर भी बहुत कम लोग इसे सचमुच जान पाते हैं।",
+      "english": "Some gaze upon the soul in wonder, some speak of it in awe, and others hear of it as a marvel; yet even after hearing of it, very few truly comprehend it."
+    },
+    {
+      "chapter": 2,
+      "verse": 30,
+      "speaker": "",
+      "sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत।\nतस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि॥",
+      "transliteration": "dehi nityamavadhyo yam dehe sarvasya bharata |\ntasmatsarvani bhutani na tvam shochitumarhasi ||",
+      "hindi": "हे भरतवंशी! हर शरीर के भीतर रहने वाली आत्मा सदैव अवध्य है। इसलिए किसी भी प्राणी के लिए तुम्हें शोक नहीं करना चाहिए।",
+      "english": "The spirit dwelling within every body is forever indestructible, O Bharata. Hence, you need not grieve for any living being."
+    },
+    {
+      "chapter": 2,
+      "verse": 31,
+      "speaker": "",
+      "sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि।\nधर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते॥",
+      "transliteration": "svadharmamapi chavekshya na vikampitumarhasi |\ndharmyaddhi yuddhachchhreyo nyatkshatriyasya na vidyate ||",
+      "hindi": "अपने कर्तव्य को ध्यान में रखते हुए भी तुम्हें डगमगाना नहीं चाहिए; क्योंकि एक रक्षक के लिए न्याय और धर्म की रक्षा में डटे रहने से बढ़कर कुछ भी श्रेष्ठ नहीं है।",
+      "english": "Considering your own calling and duty as well, you should not waver. For a guardian of justice, there is no higher purpose than standing up for what is right."
+    },
+    {
+      "chapter": 2,
+      "verse": 32,
+      "speaker": "",
+      "sanskrit": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम्।\nसुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्॥",
+      "transliteration": "yadrichchhaya chopapannam svargadvaramapavritam |\nsukhinah kshatriyah partha labhante yuddhamidrisham ||",
+      "hindi": "हे पार्थ! अपने आप सामने आया हुआ धर्म की रक्षा का यह अवसर खुले हुए स्वर्ग के द्वार के समान है; भाग्यशाली वीर ही ऐसा कर्तव्य-अवसर पाते हैं।",
+      "english": "O Partha, fortunate are the courageous who are offered such a righteous duty unsought—it is like an open doorway to honor and grace."
+    },
+    {
+      "chapter": 2,
+      "verse": 33,
+      "speaker": "",
+      "sanskrit": "अथ चेत्त्वमिमं धर्म्यं सङ्ग्रामं न करिष्यसि।\nततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि॥",
+      "transliteration": "atha chettvamimam dharmyam sangramam na karishyasi |\ntatah svadharmam kirtim cha hitva papamavapsyasi ||",
+      "hindi": "यदि तुम इस न्यायपूर्ण कर्तव्य से पीछे हट जाओगे, तो अपने धर्म और सम्मान दोनों को खो बैठोगे और अनुचित मार्ग चुनने के दोषी बनोगे।",
+      "english": "If you turn away from this righteous responsibility, you will abandon both your duty and your integrity, falling into regret."
+    },
+    {
+      "chapter": 2,
+      "verse": 34,
+      "speaker": "",
+      "sanskrit": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्।\nसम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते॥",
+      "transliteration": "akirtim chapi bhutani kathayishyanti te vyayam |\nsambhavitasya chakirtirmaranadatirichyate ||",
+      "hindi": "लोग लंबे समय तक तुम्हारे अपयश की चर्चा करेंगे, और एक सम्मानित व्यक्ति के लिए अपमान मृत्यु से भी अधिक कष्टकारी होता है।",
+      "english": "People will speak of your retreat for ages to come; and for one who has lived with honor, dishonor hurts more deeply than death."
+    },
+    {
+      "chapter": 2,
+      "verse": 35,
+      "speaker": "",
+      "sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः।\nयेषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्॥",
+      "transliteration": "bhayadranaduparatam mamsyante tvam maharathah |\nyesham cha tvam bahumato bhutva yasyasi laghavam ||",
+      "hindi": "बड़े-बड़े योद्धा यही समझेंगे कि तुम डरकर युद्ध से हट गए हो, और जिनकी दृष्टि में तुम पहले अत्यंत आदरणीय थे, उनकी नजरों में तुम्हारा मान कम हो जाएगा।",
+      "english": "Great warriors will assume you withdrew out of fear, and those who once held you in high esteem will begin to look down upon you."
+    },
+    {
+      "chapter": 2,
+      "verse": 36,
+      "speaker": "",
+      "sanskrit": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः।\nनिन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्॥",
+      "transliteration": "avachyavadamshcha bahunvadishyanti tavahitah |\nnindantastava samarthyam tato duhkhataram nu kim ||",
+      "hindi": "तुम्हारे विरोधी तुम्हारी क्षमता का उपहास उड़ाते हुए अनेक कटु बातें कहेंगे; इससे अधिक पीड़ादायक और क्या हो सकता है?",
+      "english": "Your rivals will mock your strength and speak many unkind words against you. What could be more painful than that?"
+    },
+    {
+      "chapter": 2,
+      "verse": 37,
+      "speaker": "",
+      "sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्।\nतस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः॥",
+      "transliteration": "hato va prapsyasi svargam jitva va bhokshyase mahim |\ntasmaduttishtha kaunteya yuddhaya kritanishchayah ||",
+      "hindi": "यदि कर्तव्य निभाते हुए प्राण भी गए तो सद्गति मिलेगी, और विजयी हुए तो धरती का सुख भोगोगे। इसलिए हे कुन्तीपुत्र, दृढ़ संकल्प करके उठ खड़े हो जाओ।",
+      "english": "If you fall doing your duty, you attain grace; if you prevail, you will serve and enjoy the earth. Therefore, O son of Kunti, rise with firm resolve."
+    },
+    {
+      "chapter": 2,
+      "verse": 38,
+      "speaker": "",
+      "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ।\nततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥",
+      "transliteration": "sukhaduhkhe same kritva labhalabhau jayajayau |\ntato yuddhaya yujyasva naivam papamavapsyasi ||",
+      "hindi": "सुख-दुख, लाभ-हानि और जय-पराजय को समान मानकर अपने कर्तव्य में जुट जाओ। इस समभाव से कर्म करने पर तुम्हें कोई दोष नहीं लगेगा।",
+      "english": "Treat pleasure and pain, gain and loss, victory and defeat with an even mind, and then engage in your duty. Acting with such balance, you will never incur wrong."
+    },
+    {
+      "chapter": 2,
+      "verse": 39,
+      "speaker": "",
+      "sanskrit": "एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु।\nबुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि॥",
+      "transliteration": "esha te bhihita sankhye buddhiryoge tvimam shrinu |\nbuddhya yukto yaya partha karmabandham prahasyasi ||",
+      "hindi": "हे पार्थ! अभी मैंने तुम्हें ज्ञान की दृष्टि समझाई; अब कर्मयोग की बुद्धि सुनो, जिसे अपनाकर तुम कर्म के बंधनों से मुक्त हो जाओगे।",
+      "english": "So far I have shared the outlook of wisdom; now listen to the wisdom of selfless action. Guided by this understanding, you will free yourself from the bondage of karma."
+    },
+    {
+      "chapter": 2,
+      "verse": 40,
+      "speaker": "",
+      "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते।\nस्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्॥",
+      "transliteration": "nehabhikramanasho sti pratyavayo na vidyate |\nsvalpamapyasya dharmasya trayate mahato bhayat ||",
+      "hindi": "इस मार्ग पर किया गया कोई भी प्रयास कभी व्यर्थ नहीं जाता और न इससे कोई हानि होती है। इस साधना का थोड़ा-सा अभ्यास भी बड़े भय से रक्षा करता है।",
+      "english": "On this path, no sincere effort is ever wasted and no harm can come of it. Even a small step in this practice protects one from great fear."
+    },
+    {
+      "chapter": 2,
+      "verse": 41,
+      "speaker": "",
+      "sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन।\nबहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्॥",
+      "transliteration": "vyavasayatmika buddhirekeha kurunandana |\nbahushakha hyanantashcha buddhayo vyavasayinam ||",
+      "hindi": "हे कुरुनन्दन! इस मार्ग में दृढ़ संकल्प वाली बुद्धि एकनिष्ठ होती है, जबकि अस्थिर मन वाले लोगों की इच्छाएँ और विचार अनगिनत दिशाओं में भटकते रहते हैं।",
+      "english": "On this path, a resolute mind stays single-pointed and clear, whereas an undecided mind scatters into endless branching thoughts."
+    },
+    {
+      "chapter": 2,
+      "verse": 42,
+      "speaker": "",
+      "sanskrit": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः।\nवेदवादरताः पार्थ नान्यदस्तीति वादिनः॥",
+      "transliteration": "yamimam pushpitam vacham pravadantyavipashchitah |\nvedavadaratah partha nanyadastiti vadinah ||",
+      "hindi": "हे पार्थ! जो लोग केवल बाहरी शब्दों और दिखावे में उलझे रहते हैं, वे आकर्षक बातें तो करते हैं पर उन्हें लगता है कि कामनाओं की पूर्ति से बढ़कर कुछ नहीं।",
+      "english": "Those who cling only to surface rituals speak flowery words, imagining there is nothing higher than fulfilling worldly wishes."
+    },
+    {
+      "chapter": 2,
+      "verse": 43,
+      "speaker": "",
+      "sanskrit": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम्।\nक्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति॥",
+      "transliteration": "kamatmanah svargapara janmakarmaphalapradam |\nkriyavisheshabahulam bhogaishvaryagatim prati ||",
+      "hindi": "भोग और ऐश्वर्य की कामना में डूबे लोग केवल बाहरी सुख और पद-प्रतिष्ठा दिलाने वाले जटिल कर्मकांडों में ही लगे रहते हैं।",
+      "english": "Driven by craving and longing for reward, they become absorbed in elaborate pursuits aimed only at comfort, status, and power."
+    },
+    {
+      "chapter": 2,
+      "verse": 44,
+      "speaker": "",
+      "sanskrit": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम्।\nव्यवसायात्मिका बुद्धिः समाधौ न विधीयते॥",
+      "transliteration": "bhogaishvaryaprasaktanam tayapahritachetasam |\nvyavasayatmika buddhih samadhau na vidhiyate ||",
+      "hindi": "जिनका मन भोग और ऐश्वर्य में अटका रहता है और आकर्षक वादों से भटक जाता है, उनकी बुद्धि गहरे ध्यान और स्थिरता में नहीं टिक पाती।",
+      "english": "When the heart is swept away by craving for luxury and prestige, steady focus and quiet inner stillness cannot take root."
+    },
+    {
+      "chapter": 2,
+      "verse": 45,
+      "speaker": "",
+      "sanskrit": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन।\nनिर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्॥",
+      "transliteration": "traigunyavishaya veda nistraigunyo bhavarjuna |\nnirdvandvo nityasattvastho niryogakshema atmavan ||",
+      "hindi": "हे अर्जुन! सांसारिक गुणों के दायरे से ऊपर उठो। सुख-दुख के द्वंद्व से मुक्त, सदैव सत्य में स्थित, लोभ-चिंता से रहित और आत्मसंयमी बनो।",
+      "english": "Rise above the push and pull of restless worldly moods, O Arjuna. Stay free from inner opposites, rooted in clarity, untroubled by grasping, and centered in yourself."
+    },
+    {
+      "chapter": 2,
+      "verse": 46,
+      "speaker": "",
+      "sanskrit": "यावानर्थ उदपाने सर्वतः सम्प्लुतोदके।\nतावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः॥",
+      "transliteration": "yavanartha udapane sarvatah samplutodake |\ntavansarveshu vedeshu brahmanasya vijanatah ||",
+      "hindi": "चारों ओर विशाल जलराशि होने पर एक छोटे कुएँ का जितना महत्व रह जाता है, परम सत्य को अनुभव कर लेने वाले ज्ञानी के लिए बाहरी ग्रंथों का भी उतना ही प्रयोजन शेष रहता है।",
+      "english": "Just as a small pond serves little extra purpose when a vast reservoir surrounds you, outward rules are naturally fulfilled for one who has realized the deeper truth."
+    },
+    {
+      "chapter": 2,
+      "verse": 47,
+      "speaker": "",
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+      "transliteration": "karmanyevadhikaraste ma phaleshu kadachana |\nma karmaphalaheturbhurma te sango stvakarmani ||",
+      "hindi": "तुम्हारा अधिकार केवल अपने कर्म को पूरी निष्ठा से करने में है, उसके फल पर नहीं। न तो फल की चिंता को अपना उद्देश्य बनाओ और न ही कर्म करने से जी चुराओ।",
+      "english": "Your responsibility is to act wholeheartedly, never to cling anxiously to the outcomes. Let neither the craving for results drive you, nor let yourself slip into inaction."
+    },
+    {
+      "chapter": 2,
+      "verse": 48,
+      "speaker": "",
+      "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥",
+      "transliteration": "yogasthah kuru karmani sangam tyaktva dhananjaya |\nsiddhyasiddhyoh samo bhutva samatvam yoga uchyate ||",
+      "hindi": "हे धनञ्जय! आसक्ति छोड़कर और सफलता-असफलता दोनों में समभाव रखते हुए अपने कर्म करो। मन का यही संतुलन 'योग' कहलाता है।",
+      "english": "Act with steadiness, O Dhananjaya, letting go of clinging and staying balanced in both success and failure. This quiet evenness of mind is true yoga."
+    },
+    {
+      "chapter": 2,
+      "verse": 49,
+      "speaker": "",
+      "sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय।\nबुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः॥",
+      "transliteration": "durena hyavaram karma buddhiyogaddhananjaya |\nbuddhau sharanamanvichchha kripanah phalahetavah ||",
+      "hindi": "स्वार्थ से किया गया कर्म समबुद्धि के योग से बहुत छोटा है। इसलिए शांत और विवेकपूर्ण बुद्धि की शरण लो; जो केवल फल की लालसा में उलझे रहते हैं वे सदा अशांत रहते हैं।",
+      "english": "Selfish work falls far short of work guided by wisdom. Take refuge in calm understanding; those who chase only rewards remain restless and small-hearted."
+    },
+    {
+      "chapter": 2,
+      "verse": 50,
+      "speaker": "",
+      "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।\nतस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्॥",
+      "transliteration": "buddhiyukto jahatiha ubhe sukritadushkrite |\ntasmadyogaya yujyasva yogah karmasu kaushalam ||",
+      "hindi": "समबुद्धि से युक्त मनुष्य यहीं अच्छे-बुरे कर्मबंधनों से मुक्त हो जाता है। इसलिए योग को अपनाओ—संतुलित और सजग होकर कार्य करना ही कर्म की असली कुशलता है।",
+      "english": "A person grounded in evenness rises above the tangle of praise and blame in this very life. Therefore devote yourself to yoga—for yoga is true skill and grace in action."
+    },
+    {
+      "chapter": 2,
+      "verse": 51,
+      "speaker": "",
+      "sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः।\nजन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्॥",
+      "transliteration": "karmajam buddhiyukta hi phalam tyaktva manishinah |\njanmabandhavinirmuktah padam gachchhantyanamayam ||",
+      "hindi": "विवेकशील ज्ञानी जन कर्म के फल की आसक्ति त्यागकर जन्म-मरण के बंधन से छूट जाते हैं और परम शांत, दुख-रहित अवस्था को प्राप्त करते हैं।",
+      "english": "Wise souls who unite with balanced wisdom let go of attachment to the fruits of work, break free from all bondage, and attain a state of serene wholeness."
+    },
+    {
+      "chapter": 2,
+      "verse": 52,
+      "speaker": "",
+      "sanskrit": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति।\nतदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च॥",
+      "transliteration": "yada te mohakalilam buddhirvyatitarishyati |\ntada gantasi nirvedam shrotavyasya shrutasya cha ||",
+      "hindi": "जब तुम्हारी बुद्धि मोह के इस घने जंगल को पार कर लेगी, तब तुम्हें सुने हुए और सुनने योग्य बाहरी विवादों से सहज शांति और वैराग्य प्राप्त हो जाएगा।",
+      "english": "When your understanding crosses beyond the dense forest of confusion, you will grow peacefully unattached to all that has been heard or remains to be heard."
+    },
+    {
+      "chapter": 2,
+      "verse": 53,
+      "speaker": "",
+      "sanskrit": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला।\nसमाधावचला बुद्धिस्तदा योगमवाप्स्यसि॥",
+      "transliteration": "shrutivipratipanna te yada sthasyati nishchala |\nsamadhavachala buddhistada yogamavapsyasi ||",
+      "hindi": "तरह-तरह के मतों से भ्रमित तुम्हारी बुद्धि जब स्थिर होकर शांत ध्यान में अचल टिक जाएगी, तब तुम सच्चे योग को पा लोगे।",
+      "english": "When your mind, no longer pulled apart by conflicting opinions, rests calm and unshaken in deep stillness, then you will have truly attained yoga."
+    },
+    {
+      "chapter": 2,
+      "verse": 54,
+      "speaker": "अर्जुन उवाच",
+      "sanskrit": "स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव।\nस्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्॥",
+      "transliteration": "sthitaprajnasya ka bhasha samadhisthasya keshava |\nsthitadhih kim prabhasheta kimasita vrajeta kim ||",
+      "hindi": "अर्जुन ने पूछा: हे केशव! स्थिर बुद्धि वाले (स्थितप्रज्ञ) व्यक्ति की क्या पहचान होती है? वह कैसे बोलता है, कैसे बैठता है और कैसे चलता-फिरता है?",
+      "english": "Arjuna asked: O Keshava, what are the signs of one who lives in steady wisdom? How does such a calm person speak, sit, and walk through daily life?"
+    },
+    {
+      "chapter": 2,
+      "verse": 55,
+      "speaker": "श्रीभगवानुवाच",
+      "sanskrit": "प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान्।\nआत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते॥",
+      "transliteration": "prajahati yada kamansarvanpartha manogatan |\natmanyevatmana tushtah sthitaprajnastadochyate ||",
+      "hindi": "श्रीकृष्ण बोले: हे पार्थ! जब मनुष्य मन में उठने वाली स्वार्थी कामनाओं को छोड़ देता है और अपने भीतर ही संतुष्ट रहता है, तब वह स्थितप्रज्ञ कहलाता है।",
+      "english": "Krishna replied: O Partha, when a person releases all selfish cravings from the mind and finds genuine contentment within the self alone, they are known as one of steady wisdom."
+    },
+    {
+      "chapter": 2,
+      "verse": 56,
+      "speaker": "",
+      "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥",
+      "transliteration": "duhkheshvanudvignamanah sukheshu vigatasprihah |\nvitaragabhayakrodhah sthitadhirmuniruchyate ||",
+      "hindi": "जो दुख आने पर घबराता नहीं, सुख मिलने पर उसमें लिप्त नहीं होता, और जो आसक्ति, भय तथा क्रोध से मुक्त है—वही स्थिर बुद्धि वाला मुनि है।",
+      "english": "Unshaken in the midst of sorrow, free from craving during pleasant times, and untouched by clinging, fear, and anger—such a person is a sage of steady mind."
+    },
+    {
+      "chapter": 2,
+      "verse": 57,
+      "speaker": "",
+      "sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्।\nनाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता॥",
+      "transliteration": "yah sarvatranabhisnehastattatprapya shubhashubham |\nnabhinandati na dveshti tasya prajna pratishthita ||",
+      "hindi": "जो हर परिस्थिति में अति-आसक्ति से दूर रहता है—अनुकूल मिलने पर न तो अभिमान से फूलता है और न प्रतिकूल मिलने पर द्वेष करता है—उसकी बुद्धि स्थिर होती है।",
+      "english": "One who stays free from excessive attachment everywhere—neither overly elated by good fortune nor resentful of hardship—possesses firm, anchored wisdom."
+    },
+    {
+      "chapter": 2,
+      "verse": 58,
+      "speaker": "",
+      "sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता॥",
+      "transliteration": "yada samharate chayam kurmo nganiva sarvashah |\nindriyanindriyarthebhyastasya prajna pratishthita ||",
+      "hindi": "जैसे कछुआ खतरा देखकर अपने सभी अंगों को भीतर समेट लेता है, वैसे ही जो अपनी इंद्रियों को बाहरी प्रलोभनों से समेट लेता है, उसकी बुद्धि स्थिर हो जाती है।",
+      "english": "Just as a tortoise gently draws its limbs inside its shell, when a person can draw the senses inward away from distractions, their wisdom stands secure."
+    },
+    {
+      "chapter": 2,
+      "verse": 59,
+      "speaker": "",
+      "sanskrit": "विषया विनिवर्तन्ते निराहारस्य देहिनः।\nरसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते॥",
+      "transliteration": "vishaya vinivartante niraharasya dehinah |\nrasavarjam raso pyasya param drishtva nivartate ||",
+      "hindi": "केवल बाहरी संयम करने से विषय तो दूर हो जाते हैं, पर मन की लालसा बनी रहती है। जब व्यक्ति उच्चतर आंतरिक आनंद को अनुभव करता है, तब वह लालसा भी स्वतः शांत हो जाती है।",
+      "english": "Outer restraint may pull a person away from sensory objects, yet the hidden taste for them lingers. Once a deeper, higher peace is experienced, even that craving gently fades."
+    },
+    {
+      "chapter": 2,
+      "verse": 60,
+      "speaker": "",
+      "sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः।\nइन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः॥",
+      "transliteration": "yatato hyapi kaunteya purushasya vipashchitah |\nindriyani pramathini haranti prasabham manah ||",
+      "hindi": "हे कुन्तीपुत्र! चंचल इंद्रियाँ इतनी प्रबल होती हैं कि वे प्रयास करने वाले बुद्धिमान व्यक्ति के मन को भी बलपूर्वक भटका सकती हैं।",
+      "english": "O son of Kunti, the restless senses are so forceful that they can carry away the mind even of a thoughtful person who strives for self-control."
+    },
+    {
+      "chapter": 2,
+      "verse": 61,
+      "speaker": "",
+      "sanskrit": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः।\nवशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता॥",
+      "transliteration": "tani sarvani samyamya yukta asita matparah |\nvashe hi yasyendriyani tasya prajna pratishthita ||",
+      "hindi": "इसलिए उन सभी इंद्रियों को संयमित करके मन को मुझ परमात्मा में शांत स्थिर रखना चाहिए। जिसकी इंद्रियाँ उसके वश में हैं, उसी की बुद्धि स्थिर रहती है।",
+      "english": "Bringing the senses into gentle harmony, let one rest peacefully with a heart devoted to the Supreme. Truly, one whose senses are mastered holds steady wisdom."
+    },
+    {
+      "chapter": 2,
+      "verse": 62,
+      "speaker": "",
+      "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥",
+      "transliteration": "dhyayato vishayanpumsah sangasteshupajayate |\nsangatsanjayate kamah kamatkrodho bhijayate ||",
+      "hindi": "बाहरी विषयों के बारे में लगातार सोचते रहने से उनसे लगाव पैदा होता है; लगाव से तीव्र इच्छा जन्म लेती है, और इच्छा पूरी न होने पर क्रोध उत्पन्न होता है।",
+      "english": "Dwelling constantly on tempting objects creates attachment to them; from attachment springs intense craving, and frustrated craving gives birth to anger."
+    },
+    {
+      "chapter": 2,
+      "verse": 63,
+      "speaker": "",
+      "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः।\nस्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥",
+      "transliteration": "krodhadbhavati sammohah sammohatsmritivibhramah |\nsmritibhramshadbuddhinasho buddhinashatpranashyati ||",
+      "hindi": "क्रोध से मन में भ्रम पैदा होता है, भ्रम से सही-गलत की स्मृति बिगड़ जाती है, स्मृति खोने से विवेक नष्ट होता है, और विवेक के नाश से मनुष्य अपना ही अहित कर बैठता है।",
+      "english": "From anger arises delusion; from delusion, confusion of memory; from confused memory comes loss of clear judgment; and losing clear judgment leads a person to downfall."
+    },
+    {
+      "chapter": 2,
+      "verse": 64,
+      "speaker": "",
+      "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन्।\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति॥",
+      "transliteration": "ragadveshaviyuktaistu vishayanindriyaishcharan |\natmavashyairvidheyatma prasadamadhigachchhati ||",
+      "hindi": "परन्तु जो संयमित व्यक्ति राग और द्वेष से मुक्त होकर अपनी वश में की हुई इंद्रियों से संसार में व्यवहार करता है, वह गहरी आंतरिक प्रसन्नता और शांति पाता है।",
+      "english": "Yet a self-disciplined person who moves through the world with senses free from craving and hostility attains deep inner serenity and grace."
+    },
+    {
+      "chapter": 2,
+      "verse": 65,
+      "speaker": "",
+      "sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते।\nप्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते॥",
+      "transliteration": "prasade sarvaduhkhanam hanirasyopajayate |\nprasannachetaso hyashu buddhih paryavatishthate ||",
+      "hindi": "इस आंतरिक शांति के प्राप्त होते ही उसके सारे दुख मिट जाते हैं, क्योंकि प्रसन्न और शांत चित्त वाले मनुष्य की बुद्धि शीघ्र ही स्थिर हो जाती है।",
+      "english": "In that quiet inner peace, all sorrows dissolve; for the mind that is serene quickly becomes clear, centered, and steady."
+    },
+    {
+      "chapter": 2,
+      "verse": 66,
+      "speaker": "",
+      "sanskrit": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना।\nन चाभावयतः शान्तिरशान्तस्य कुतः सुखम्॥",
+      "transliteration": "nasti buddhirayuktasya na chayuktasya bhavana |\nna chabhavayatah shantirashantasya kutah sukham ||",
+      "hindi": "असंयमित व्यक्ति में न स्थिर बुद्धि होती है और न एकाग्र भावना। जिसके पास एकाग्रता नहीं उसे शांति नहीं मिलती, और बिना शांति के सच्चा सुख कहाँ मिल सकता है?",
+      "english": "Without inner balance there is no clear judgment, and without clarity there is no deep peace of heart. Without peace, how can genuine happiness ever exist?"
+    },
+    {
+      "chapter": 2,
+      "verse": 67,
+      "speaker": "",
+      "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते।\nतदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि॥",
+      "transliteration": "indriyanam hi charatam yanmano nuvidhiyate |\ntadasya harati prajnam vayurnavamivambhasi ||",
+      "hindi": "जिस प्रकार तेज हवा पानी में चलती नाव को दिशा से भटका देती है, उसी प्रकार भटकती हुई किसी एक इंद्रिय के पीछे चलने वाला मन भी मनुष्य के विवेक को बहा ले जाता है।",
+      "english": "Just as a strong gust blows a boat off course on open water, letting the mind follow even a single wandering sense sweeps away one's wisdom."
+    },
+    {
+      "chapter": 2,
+      "verse": 68,
+      "speaker": "",
+      "sanskrit": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता॥",
+      "transliteration": "tasmadyasya mahabaho nigrihitani sarvashah |\nindriyanindriyarthebhyastasya prajna pratishthita ||",
+      "hindi": "इसलिए हे महाबाहो! जिस व्यक्ति ने अपनी इंद्रियों को बाहरी आकर्षणों से पूरी तरह संभाल लिया है, उसी की बुद्धि वास्तव में स्थिर होती है।",
+      "english": "Therefore, O strong-armed one, the person whose senses are gently restrained from every distracting pull truly stands firm in wisdom."
+    },
+    {
+      "chapter": 2,
+      "verse": 69,
+      "speaker": "",
+      "sanskrit": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी।\nयस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः॥",
+      "transliteration": "ya nisha sarvabhutanam tasyam jagarti samyami |\nyasyam jagrati bhutani sa nisha pashyato muneh ||",
+      "hindi": "जो आत्मिक सत्य साधारण लोगों के लिए रात्रि के समान अनदेखा है, संयमी व्यक्ति उसमें जागृत रहता है; और जिन सांसारिक उलझनों में सब उलझे रहते हैं, ज्ञानी उनके प्रति शांत और अनासक्त रहता है।",
+      "english": "What feels like night to the distracted world is wakeful clarity to the disciplined soul; and what the world stays restless chasing is like quiet night to the seeing sage."
+    },
+    {
+      "chapter": 2,
+      "verse": 70,
+      "speaker": "",
+      "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्।\nतद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी॥",
+      "transliteration": "apuryamanamachalapratishtham samudramapah pravishanti yadvat |\ntadvatkama yam pravishanti sarve sa shantimapnoti na kamakami ||",
+      "hindi": "जैसे चारों ओर से नदियों का जल आकर भी भरे हुए समुद्र की स्थिरता को भंग नहीं करता, वैसे ही जिसके भीतर इच्छाएँ बिना हलचल पैदा किए शांत हो जाती हैं, वही सच्ची शांति पाता है—न कि इच्छाओं के पीछे भागने वाला।",
+      "english": "Just as rivers constantly flow into the vast ocean without disturbing its deep stillness, one through whom desires pass without creating ripples finds true peace—not the one who chases every craving."
+    },
+    {
+      "chapter": 2,
+      "verse": 71,
+      "speaker": "",
+      "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः।\nनिर्ममो निरहङ्कारः स शान्तिमधिगच्छति॥",
+      "transliteration": "vihaya kamanyah sarvanpumamshcharati nihsprihah |\nnirmamo nirahankarah sa shantimadhigachchhati ||",
+      "hindi": "जो मनुष्य सब स्वार्थी इच्छाओं को त्यागकर, बिना लालसा, बिना 'मेरा-तेरा' के मोह और बिना अहंकार के जीवन जीता है, वही परम शांति को प्राप्त करता है।",
+      "english": "The person who walks through life free from selfish cravings, free from possessiveness, and free from ego attains lasting peace."
+    },
+    {
+      "chapter": 2,
+      "verse": 72,
+      "speaker": "",
+      "sanskrit": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति।\nस्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति॥",
+      "transliteration": "esha brahmi sthitih partha nainam prapya vimuhyati |\nsthitvasyamantakale pi brahmanirvanamrichchhati ||",
+      "hindi": "हे पार्थ! यही ब्रह्मभाव की दिव्य स्थिति है। इसे पाकर मनुष्य फिर कभी मोह में नहीं पड़ता, और जीवन के अंतिम क्षण में भी इस शांति में टिककर परम मुक्ति को प्राप्त होता है।",
+      "english": "This, O Partha, is the serene state of living in the Divine. Reaching it, one is no longer bewildered; resting in this peace even at life's final moment, one merges into eternal freedom."
+    }
+  ]
+}

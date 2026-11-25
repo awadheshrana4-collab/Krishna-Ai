@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Gita Saar</string>
+
+    <!-- Bottom navigation tabs -->
+    <string name="tab_aaj">Aaj</string>
+    <string name="tab_gita">Gita</string>
+    <string name="tab_yaad_karo">Yaad Karo</string>
+    <string name="tab_krishna_ai">Krishna AI</string>
+    <string name="tab_profile">Profile</string>
+
+    <!-- Language modes -->
+    <string name="lang_all">All</string>
+    <string name="lang_sanskrit">संस्कृत</string>
+    <string name="lang_hindi">हिन्दी</string>
+    <string name="lang_english">English</string>
+
+    <!-- Aaj (Today) -->
+    <string name="aaj_greeting">Namaste • Aaj ka Saar</string>
+    <string name="aaj_shloka_of_day">Shloka of the Day</string>
+    <string name="aaj_streak_label">Day Streak</string>
+    <string name="aaj_checklist_title">Aaj ka Sankalp</string>
+    <string name="checklist_read_today">Aaj ka shloka padho</string>
+    <string name="checklist_memorize">Shloka yaad karo</string>
+    <string name="checklist_continue_reading">Padhna jaari rakho</string>
+    <string name="action_share">Share</string>
+    <string name="action_note">Note</string>
+    <string name="action_listen">Listen</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_bookmark">Bookmark</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_read_chapter">Read Chapter</string>
+
+    <!-- Gita -->
+    <string name="gita_search_placeholder">Search shlokas, keywords, or 2.47…</string>
+    <string name="gita_chapters_heading">18 Chapters • 700 Shlokas</string>
+    <string name="gita_offline_ready">Offline Ready</string>
+    <string name="gita_template_ready">Add JSON</string>
+
+    <!-- Yaad Karo -->
+    <string name="yaad_title">Yaad Karo</string>
+    <string name="yaad_subtitle">Drag or tap missing words into the blanks</string>
+    <string name="yaad_points_label">Points</string>
+    <string name="yaad_check_answer">Check Shloka</string>
+    <string name="yaad_next_shloka">Next Shloka</string>
+    <string name="yaad_hint">Hint</string>
+    <string name="yaad_reset">Reset</string>
+
+    <!-- Krishna AI -->
+    <string name="krishna_title">Krishna AI</string>
+    <string name="krishna_subtitle">Calm guidance from Bhagavad Gita</string>
+    <string name="krishna_disclaimer">Respectful spiritual reflection only — not medical or legal advice.</string>
+    <string name="krishna_input_placeholder">Share what weighs on your heart…</string>
+    <string name="krishna_send">Send</string>
+    <string name="krishna_clear_chat">New Chat</string>
+
+    <!-- Profile -->
+    <string name="profile_title">My Sadhana</string>
+    <string name="profile_reminder_title">Daily Shloka Reminder</string>
+    <string name="profile_settings_title">Reading &amp; Display</string>
+    <string name="profile_font_size">Font Size</string>
+    <string name="profile_dark_mode">Dark Mode</string>
+    <string name="profile_audio_speed">Recitation Speed</string>
+
+    <!-- Share & Note -->
+    <string name="share_card_title">Share Shloka Card</string>
+    <string name="share_whatsapp">Share on WhatsApp</string>
+    <string name="share_other">Share Image</string>
+    <string name="note_dialog_title">Personal Reflection</string>
+    <string name="note_placeholder">Write what this shloka means to you today…</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- Accessibility -->
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_display_settings">Display and font settings</string>
+    <string name="cd_hero_banner">Serene sunrise over lotus waters</string>
+    <string name="cd_krishna_emblem">Golden flute and peacock feather emblem</string>
+</resources>

@@ -1,0 +1,432 @@
+{
+  "chapterNumber": 1,
+  "nameSanskrit": "अर्जुनविषादयोग",
+  "nameTransliteration": "Arjuna Vishada Yoga",
+  "nameHindi": "अर्जुन का विषाद",
+  "nameEnglish": "The Sorrow of Arjuna",
+  "shlokas": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "speaker": "धृतराष्ट्र उवाच",
+      "sanskrit": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥",
+      "transliteration": "dharmakshetre kurukshetre samaveta yuyutsavah |\nmamakah pandavashchaiva kimakurvata sanjaya ||",
+      "hindi": "धृतराष्ट्र ने पूछा: हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से एकत्र हुए मेरे पुत्रों और पाण्डु के पुत्रों ने क्या किया?",
+      "english": "Dhritarashtra asked: O Sanjaya, gathered on the sacred field of Kurukshetra and eager for battle, what did my sons and the sons of Pandu do?"
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "speaker": "सञ्जय उवाच",
+      "sanskrit": "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत्॥",
+      "transliteration": "drishtva tu pandavanikam vyudham duryodhanastada |\nacharyamupasangamya raja vachanamabravit ||",
+      "hindi": "संजय बोले: उस समय पाण्डवों की सुसज्जित सेना को देखकर राजा दुर्योधन आचार्य द्रोण के पास गए और उनसे यह बात कही।",
+      "english": "Sanjaya replied: Seeing the Pandava army drawn up in battle formation, Prince Duryodhana approached his teacher Drona and spoke these words."
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "speaker": "दुर्योधन उवाच",
+      "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता॥",
+      "transliteration": "pashyaitam panduputranamacharya mahatim chamum |\nvyudham drupadaputrena tava shishyena dhimata ||",
+      "hindi": "हे आचार्य! पाण्डुपुत्रों की इस विशाल सेना को देखिए, जिसे आपके ही बुद्धिमान शिष्य द्रुपदपुत्र धृष्टद्युम्न ने व्यवस्थित किया है।",
+      "english": "O Teacher, look at this vast army of the sons of Pandu, arranged in formation by your own clever student, the son of Drupada."
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "speaker": "",
+      "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।\nयुयुधानो विराटश्च द्रुपदश्च महारथः॥",
+      "transliteration": "atra shura maheshvasa bhimarjunasama yudhi |\nyuyudhano viratashcha drupadashcha maharathah ||",
+      "hindi": "इस सेना में भीम और अर्जुन के समान पराक्रमी धनुर्धर हैं—जैसे सात्यकि, राजा विराट और महारथी द्रुपद।",
+      "english": "Here stand mighty archers equal in battle to Bhima and Arjuna—Yuyudhana, Virata, and the great chariot-warrior Drupada."
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "speaker": "",
+      "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः॥",
+      "transliteration": "dhrishtaketushchekitanah kashirajashcha viryavan |\npurujitkuntibhojashcha shaibyashcha narapungavah ||",
+      "hindi": "इनके साथ धृष्टकेतु, चेकितान, बलवान काशिराज, पुरुजित्, कुन्तिभोज और श्रेष्ठ योद्धा शैब्य भी खड़े हैं।",
+      "english": "There are also Dhrishtaketu, Chekitana, the valiant King of Kashi, Purujit, Kuntibhoja, and the noble warrior Shaibya."
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "speaker": "",
+      "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः॥",
+      "transliteration": "yudhamanyushcha vikranta uttamaujashcha viryavan |\nsaubhadro draupadeyashcha sarva eva maharathah ||",
+      "hindi": "पराक्रमी युधामन्यु, शक्तिशाली उत्तमौजा, सुभद्रा के पुत्र अभिमन्यु और द्रौपदी के पाँचों पुत्र—ये सभी महारथी हैं।",
+      "english": "The courageous Yudhamanyu, the mighty Uttamauja, Subhadra's son Abhimanyu, and the sons of Draupadi—all of them are formidable warriors."
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "speaker": "",
+      "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते॥",
+      "transliteration": "asmakam tu vishishta ye tannibodha dvijottama |\nnayaka mama sainyasya samjnartham tanbravimi te ||",
+      "hindi": "हे श्रेष्ठ ब्राह्मण! अब हमारे पक्ष के मुख्य सेनानायकों के बारे में भी सुनिए; आपकी जानकारी के लिए मैं उनके नाम गिनाता हूँ।",
+      "english": "Now, O noble teacher, let me also name the distinguished commanders on our own side for your awareness."
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "speaker": "",
+      "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च॥",
+      "transliteration": "bhavanbhishmashcha karnashcha kripashcha samitinjayah |\nashvatthama vikarnashcha saumadattistathaiva cha ||",
+      "hindi": "स्वयं आप, पितामह भीष्म, कर्ण, युद्धविजयी कृपाचार्य, अश्वत्थामा, विकर्ण और सोमदत्त के पुत्र भूरिश्रवा हमारे साथ हैं।",
+      "english": "There are yourself, Bhishma, Karna, the ever-victorious Kripa, Ashvatthama, Vikarna, and the son of Somadatta."
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "speaker": "",
+      "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः॥",
+      "transliteration": "anye cha bahavah shura madarthe tyaktajivitah |\nnanashastrapraharanah sarve yuddhavisharadah ||",
+      "hindi": "इनके अतिरिक्त और भी अनेक वीर हैं जो मेरे लिए अपने प्राण न्योछावर करने को तैयार हैं; वे सभी विविध अस्त्र-शस्त्रों और युद्धकला में निपुण हैं।",
+      "english": "Many other brave fighters stand ready to risk their lives for my sake, armed with varied weapons and deeply skilled in warfare."
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "speaker": "",
+      "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्॥",
+      "transliteration": "aparyaptam tadasmakam balam bhishmabhirakshitam |\nparyaptam tvidametesham balam bhimabhirakshitam ||",
+      "hindi": "भीष्म द्वारा सुरक्षित हमारी यह सेना अपार है, जबकि भीम द्वारा सुरक्षित पाण्डवों की सेना सीमित दिखाई देती है।",
+      "english": "Our force, guarded by Bhishma, seems boundless, while their force, guarded by Bhima, appears limited in comparison."
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "speaker": "",
+      "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि॥",
+      "transliteration": "ayaneshu cha sarveshu yathabhagamavasthitah |\nbhishmamevabhirakshantu bhavantah sarva eva hi ||",
+      "hindi": "इसलिए आप सभी अपनी-अपनी निर्धारित मोर्चों पर डटे रहकर हर ओर से पितामह भीष्म की रक्षा करें।",
+      "english": "Therefore, standing firmly at your respective positions along every front, let all of you protect Bhishma above all."
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "speaker": "सञ्जय उवाच",
+      "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्॥",
+      "transliteration": "tasya sanjanayanharsam kuruvriddhah pitamahah |\nsimhanadam vinadyochchaih shankham dadhmau pratapavan ||",
+      "hindi": "दुर्योधन का उत्साह बढ़ाने के लिए कुरुवंश के वयोवृद्ध और तेजस्वी पितामह भीष्म ने सिंह के समान गर्जना करते हुए ऊँचे स्वर में अपना शंख बजाया।",
+      "english": "To lift Duryodhana's spirits, the mighty elder Bhishma roared like a lion and blew his conch loudly."
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "speaker": "",
+      "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्॥",
+      "transliteration": "tatah shankhashcha bheryashcha panavanakagomukhah |\nsahasaivabhyahanyanta sa shabdastumulo bhavat ||",
+      "hindi": "इसके तुरंत बाद शंख, नगाड़े, ढोल, मृदंग और रणसिंगे एक साथ बज उठे, जिससे चारों ओर भारी कोलाहल गूँज गया।",
+      "english": "Immediately, conches, kettledrums, tabors, drums, and horns sounded all at once, creating a thunderous uproar."
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "speaker": "",
+      "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः॥",
+      "transliteration": "tatah shvetairhayairyukte mahati syandane sthitau |\nmadhavah pandavashchaiva divyau shankhau pradadhmatuh ||",
+      "hindi": "तब सफेद घोड़ों से जुते हुए भव्य रथ में विराजमान श्रीकृष्ण और अर्जुन ने भी अपने दिव्य शंखों को फूँका।",
+      "english": "Then, seated in their grand chariot pulled by white horses, Krishna and Arjuna blew their divine conches in answer."
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "speaker": "",
+      "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः॥",
+      "transliteration": "panchajanyam hrishikesho devadattam dhananjayah |\npaundram dadhmau mahashankham bhimakarma vrikodarah ||",
+      "hindi": "श्रीकृष्ण ने 'पाञ्चजन्य', अर्जुन ने 'देवदत्त' और महापराक्रमी भीम ने 'पौण्ड्र' नामक विशाल शंख बजाया।",
+      "english": "Krishna blew the Panchajanya, Arjuna blew the Devadatta, and mighty Bhima blew his huge conch named Paundra."
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "speaker": "",
+      "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ॥",
+      "transliteration": "anantavijayam raja kuntiputro yudhishthirah |\nnakulah sahadevashcha sughoshamanipushpakau ||",
+      "hindi": "कुन्तीपुत्र राजा युधिष्ठिर ने 'अनन्तविजय', तथा नकुल और सहदेव ने क्रमशः 'सुघोष' और 'मणिपुष्पक' शंख बजाए।",
+      "english": "King Yudhishthira, son of Kunti, blew Anantavijaya, while Nakula and Sahadeva sounded Sughosha and Manipushpaka."
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "speaker": "",
+      "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः॥",
+      "transliteration": "kashyashcha parameshvasah shikhandi cha maharathah |\ndhrishtadyumno viratashcha satyakishchaparajitah ||",
+      "hindi": "श्रेष्ठ धनुर्धर काशिराज, महारथी शिखण्डी, धृष्टद्युम्न, राजा विराट और अजेय सात्यकि ने भी अपने शंख फूँके।",
+      "english": "The skilled archer King of Kashi, great warrior Shikhandi, Dhrishtadyumna, Virata, and unconquered Satyaki also joined in."
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "speaker": "",
+      "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्॥",
+      "transliteration": "drupado draupadeyashcha sarvashah prithivipate |\nsaubhadrashcha mahabahuh shankhandadhmuh prithakprithak ||",
+      "hindi": "हे राजन्! राजा द्रुपद, द्रौपदी के पाँचों पुत्र और महाबाहु अभिमन्यु ने भी अलग-अलग अपने शंख बजाए।",
+      "english": "O King, Drupada, the sons of Draupadi, and strong-armed Abhimanyu each blew their conches from every side."
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "speaker": "",
+      "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्।\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन्॥",
+      "transliteration": "sa ghosho dhartarashtranam hridayani vyadarayat |\nnabhashcha prithivim chaiva tumulo bhyanunadayan ||",
+      "hindi": "उस प्रचंड शंखध्वनि ने आकाश और धरती को गुँजा दिया तथा धृतराष्ट्र के पुत्रों के हृदय को हिलाकर रख दिया।",
+      "english": "That resounding echo shook both sky and earth, piercing the hearts of Dhritarashtra's sons with dread."
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "speaker": "",
+      "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः।\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः॥",
+      "transliteration": "atha vyavasthitandrishtva dhartarashtrankapidhvajah |\npravritte shastrasampate dhanurudyamya pandavah ||",
+      "hindi": "जब अस्त्र-शस्त्र चलने की घड़ी निकट आ गई, तब हनुमान के ध्वज वाले अर्जुन ने सामने खड़ी कौरव सेना को देखकर अपना धनुष उठाया।",
+      "english": "Seeing the sons of Dhritarashtra poised as weapons were about to fly, Arjuna, whose banner bore Hanuman, raised his bow."
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "speaker": "अर्जुन उवाच",
+      "sanskrit": "हृषीकेशं तदा वाक्यमिदमाह महीपते।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत॥",
+      "transliteration": "hrishikesham tada vakyamidamaha mahipate |\nsenayorubhayormadhye ratham sthapaya me chyuta ||",
+      "hindi": "हे राजन्! तब अर्जुन ने श्रीकृष्ण से कहा: हे अच्युत! मेरा रथ दोनों सेनाओं के बीच में ले जाकर खड़ा कीजिए।",
+      "english": "Then Arjuna spoke these words to Krishna: O Unshakable One, please place my chariot right between the two armies."
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "speaker": "",
+      "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्।\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे॥",
+      "transliteration": "yavadetannirikshe ham yoddhukamanavasthitan |\nkairmaya saha yoddhavyamasmin ranasamudyame ||",
+      "hindi": "ताकि मैं युद्ध के लिए खड़े इन सभी लोगों को ठीक से देख सकूँ और जान सकूँ कि इस संग्राम में मुझे किन-किन से लड़ना है।",
+      "english": "Let me look closely at those standing here eager to fight, and see whom I must face in this looming battle."
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "speaker": "",
+      "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः॥",
+      "transliteration": "yotsyamananavekshe ham ya ete tra samagatah |\ndhartarashtrasya durbuddheryuddhe priyachikirshavah ||",
+      "hindi": "मैं उन योद्धाओं को देखना चाहता हूँ जो कुबुद्धि दुर्योधन का पक्ष लेकर यहाँ युद्ध करने आए हैं।",
+      "english": "I wish to observe all who have assembled here to fight in order to please the misguided son of Dhritarashtra."
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "speaker": "सञ्जय उवाच",
+      "sanskrit": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्॥",
+      "transliteration": "evamukto hrishikesho gudakeshena bharata |\nsenayorubhayormadhye sthapayitva rathottamam ||",
+      "hindi": "संजय बोले: हे भरतवंशी! अर्जुन के ऐसा कहने पर श्रीकृष्ण ने उस श्रेष्ठ रथ को दोनों सेनाओं के मध्य ले जाकर रोक दिया।",
+      "english": "Sanjaya said: At Arjuna's request, Krishna guided that magnificent chariot to the open space between both armies."
+    },
+    {
+      "chapter": 1,
+      "verse": 25,
+      "speaker": "",
+      "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति॥",
+      "transliteration": "bhishmadronapramukhatah sarvesham cha mahikshitam |\nuvacha partha pashyaitansamavetankuruniti ||",
+      "hindi": "भीष्म, द्रोण और अन्य सभी राजाओं के सामने रथ रोककर श्रीकृष्ण ने कहा: हे पार्थ! यहाँ एकत्र हुए इन सभी कौरवों को देखो।",
+      "english": "Halting directly in front of Bhishma, Drona, and all the assembled rulers, Krishna said: Look, O Partha, at all the Kurus gathered here."
+    },
+    {
+      "chapter": 1,
+      "verse": 26,
+      "speaker": "",
+      "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा॥",
+      "transliteration": "tatrapashyatsthitanparthah pitrinatha pitamahan |\nacharyanmatulanbhratrinputranpautransakhimstatha ||",
+      "hindi": "वहाँ अर्जुन ने दोनों सेनाओं में अपने पिताओं, दादाओं, गुरुओं, मामाओं, भाइयों, पुत्रों, पौत्रों और मित्रों को खड़े देखा।",
+      "english": "There Arjuna beheld fathers and grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and dear friends standing across both ranks."
+    },
+    {
+      "chapter": 1,
+      "verse": 27,
+      "speaker": "",
+      "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्॥",
+      "transliteration": "shvashuransuhridashchaiva senayorubhayorapi |\ntansamikshya sa kaunteyah sarvanbandhunavasthitan ||",
+      "hindi": "ससुरों और शुभचिंतकों सहित अपने सभी प्रिय संबंधियों को सामने खड़ा देखकर कुन्तीपुत्र अर्जुन का हृदय द्रवित हो उठा।",
+      "english": "Seeing fathers-in-law, well-wishers, and all his kin arrayed on both sides, the son of Kunti was deeply moved."
+    },
+    {
+      "chapter": 1,
+      "verse": 28,
+      "speaker": "अर्जुन उवाच",
+      "sanskrit": "कृपया परयाविष्टो विषीदन्निदमब्रवीत्।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्॥",
+      "transliteration": "kripaya parayavishto vishidannidamabravit |\ndrishtvemam svajanam krishna yuyutsum samupasthitam ||",
+      "hindi": "गहरी करुणा और उदासी से भरकर अर्जुन बोले: हे कृष्ण! युद्ध के लिए तैयार अपने इन प्रियजनों को देखकर—",
+      "english": "Overwhelmed with deep compassion and sorrow, Arjuna spoke: O Krishna, seeing my own people standing here eager to fight—"
+    },
+    {
+      "chapter": 1,
+      "verse": 29,
+      "speaker": "",
+      "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते॥",
+      "transliteration": "sidanti mama gatrani mukham cha parishushyati |\nvepathushcha sharire me romaharshashcha jayate ||",
+      "hindi": "मेरे अंग शिथिल पड़ रहे हैं, मेरा मुख सूखा जा रहा है, शरीर काँप रहा है और रोंगटे खड़े हो रहे हैं।",
+      "english": "My limbs feel weak and heavy, my mouth is completely dry, my body trembles, and my hair stands on end."
+    },
+    {
+      "chapter": 1,
+      "verse": 30,
+      "speaker": "",
+      "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः॥",
+      "transliteration": "gandivam sramsate hastattvakchaiva paridahyate |\nna cha shaknomyavasthatum bhramativa cha me manah ||",
+      "hindi": "मेरा गाण्डीव धनुष हाथ से फिसला जा रहा है, त्वचा में जलन हो रही है, मैं ठीक से खड़ा नहीं रह पा रहा और मेरा मन चकरा रहा है।",
+      "english": "My bow Gandiva slips from my grasp, my skin burns, I can scarcely stand steady, and my mind feels as though it is spinning."
+    },
+    {
+      "chapter": 1,
+      "verse": 31,
+      "speaker": "",
+      "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे॥",
+      "transliteration": "nimittani cha pashyami viparitaní keshava |\nna cha shreyo nupashyami hatva svajanamahave ||",
+      "hindi": "हे केशव! मुझे सभी संकेत अशुभ दिखाई दे रहे हैं। युद्ध में अपने ही लोगों का वध करके मुझे किसी भी प्रकार का कल्याण नहीं दिखता।",
+      "english": "O Keshava, I see only troubling omens ahead. I can see no true good coming from killing my own relatives in war."
+    },
+    {
+      "chapter": 1,
+      "verse": 32,
+      "speaker": "",
+      "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा॥",
+      "transliteration": "na kankshe vijayam krishna na cha rajyam sukhani cha |\nkim no rajyena govinda kim bhogairjivitena va ||",
+      "hindi": "हे कृष्ण! मुझे न विजय चाहिए, न राज्य और न ही सुख-सुविधाएँ। हे गोविन्द! ऐसे राज्य, भोग या जीवन से हमें क्या लाभ होगा?",
+      "english": "O Krishna, I desire neither victory, nor kingdom, nor worldly pleasures. Of what worth is a kingdom, comfort, or even life itself to us?"
+    },
+    {
+      "chapter": 1,
+      "verse": 33,
+      "speaker": "",
+      "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च॥",
+      "transliteration": "yeshamarthe kankshitam no rajyam bhogah sukhani cha |\nta ime vasthita yuddhe pranamstyaktva dhanani cha ||",
+      "hindi": "जिन प्रियजनों के लिए हम राज्य, आनंद और सुख चाहते हैं, वही सब तो आज अपने प्राण और संपत्ति का मोह छोड़कर युद्ध में खड़े हैं।",
+      "english": "Those very loved ones for whose sake we would value a kingdom, joy, and peace stand here ready to surrender their lives and wealth."
+    },
+    {
+      "chapter": 1,
+      "verse": 34,
+      "speaker": "",
+      "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः।\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा॥",
+      "transliteration": "acharyah pitarah putrastathaiva cha pitamahah |\nmatulah shvashurah pautrah shyalah sambandhinastatha ||",
+      "hindi": "गुरुजन, पिता, पुत्र, दादा, मामा, ससुर, पौत्र, साले और अन्य सभी आत्मीय संबंधी यहाँ मौजूद हैं।",
+      "english": "Teachers, fathers, sons, grandfathers, uncles, fathers-in-law, grandsons, brothers-in-law, and close kinsmen are all before me."
+    },
+    {
+      "chapter": 1,
+      "verse": 35,
+      "speaker": "",
+      "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते॥",
+      "transliteration": "etanna hantumichchhami ghnato pi madhusudana |\napi trailokyarajyasya hetoh kim nu mahikrite ||",
+      "hindi": "हे मधुसूदन! यदि ये मुझे मार भी डालें, तब भी मैं तीनों लोकों के राज्य के लिए भी इन्हें मारना नहीं चाहता—फिर भला इस धरती के राज्य की क्या बात है?",
+      "english": "O Madhusudana, even if they were to strike me down, I do not wish to kill them—not even for sovereignty over all three worlds, much less for this earth."
+    },
+    {
+      "chapter": 1,
+      "verse": 36,
+      "speaker": "",
+      "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः॥",
+      "transliteration": "nihatya dhartarashtrannah ka pritih syajjanardana |\npapamevashrayedasmanhatvaitanatatayinah ||",
+      "hindi": "हे जनार्दन! धृतराष्ट्र के पुत्रों को मारकर हमें कौन-सा सुख मिलेगा? भले ही वे आततायी हों, पर उनका वध करने से हमें पाप ही लगेगा।",
+      "english": "O Janardana, what joy could we ever find by slaying Dhritarashtra's sons? Even though they act as aggressors, killing them would bring sorrow and wrong upon us."
+    },
+    {
+      "chapter": 1,
+      "verse": 37,
+      "speaker": "",
+      "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव॥",
+      "transliteration": "tasmannarha vayam hantum dhartarashtransvabandhavan |\nsvajanam hi katham hatva sukhinah syama madhava ||",
+      "hindi": "इसलिए अपने सगे भाई-बंधुओं को मारना हमारे लिए उचित नहीं है। हे माधव! अपने ही परिजनों का विनाश करके हम कैसे सुखी रह पाएँगे?",
+      "english": "Therefore it is not right for us to kill our own cousins and kin. O Madhava, how could we ever be happy after destroying our own family?"
+    },
+    {
+      "chapter": 1,
+      "verse": 38,
+      "speaker": "",
+      "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्॥",
+      "transliteration": "yadyapyete na pashyanti lobhopahatachetasah |\nkulakshayakritam dosham mitradrohe cha patakam ||",
+      "hindi": "यद्यपि लोभ से अंधे होकर ये लोग कुल के नाश का दोष और मित्रों से विश्वासघात का पाप नहीं देख पा रहे हैं—",
+      "english": "Even if greed has clouded their judgment so they cannot see the harm of ruining a family or betraying friends—"
+    },
+    {
+      "chapter": 1,
+      "verse": 39,
+      "speaker": "",
+      "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन॥",
+      "transliteration": "katham na jneyamasmabhih papadasmannivartitum |\nkulakshayakritam dosham prapashyadbhirjanardana ||",
+      "hindi": "फिर भी हे जनार्दन! हम जो कुलनाश के परिणाम को साफ-साफ समझते हैं, भला इस पाप से दूर रहने की बुद्धि क्यों न रखें?",
+      "english": "Why should we, who clearly recognize the tragedy of destroying a lineage, not have the wisdom to turn away from this deed?"
+    },
+    {
+      "chapter": 1,
+      "verse": 40,
+      "speaker": "",
+      "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत॥",
+      "transliteration": "kulakshaye pranashyanti kuladharmah sanatanah |\ndharme nashte kulam kritsnamadharmo bhibhavatyuta ||",
+      "hindi": "कुल के नष्ट होने से सदियों से चली आ रही पारिवारिक मर्यादाएँ मिट जाती हैं, और धर्म के टूटने पर पूरे परिवार में अधर्म फैल जाता है।",
+      "english": "When a family collapses, its time-honored values perish; and when values are lost, disorder overtakes the entire household."
+    },
+    {
+      "chapter": 1,
+      "verse": 41,
+      "speaker": "",
+      "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः॥",
+      "transliteration": "adharmabhibhavatkrishna pradushyanti kulastriyah |\nstrishu dushtasu varshneya jayate varnasankarah ||",
+      "hindi": "हे कृष्ण! जब समाज में अधर्म बढ़ता है तो घर की व्यवस्था और नैतिक संतुलन बिगड़ जाता है, जिससे सामाजिक अव्यवस्था उत्पन्न होती है।",
+      "english": "When disorder prevails, O Krishna, the moral fabric and harmony of families break down, giving rise to deep social confusion."
+    },
+    {
+      "chapter": 1,
+      "verse": 42,
+      "speaker": "",
+      "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः॥",
+      "transliteration": "sankaro narakayaiva kulaghnanam kulasya cha |\npatanti pitaro hyesham luptapindodakakriyah ||",
+      "hindi": "ऐसी अव्यवस्था परिवार और उसके विनाशकों दोनों के लिए भारी कष्ट लाती है, और पूर्वजों के प्रति श्रद्धा-संस्कार भी छूट जाते हैं।",
+      "english": "Such breakdown brings grief to both the family and those who caused its ruin, and cherished traditions of honoring ancestors are forgotten."
+    },
+    {
+      "chapter": 1,
+      "verse": 43,
+      "speaker": "",
+      "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः॥",
+      "transliteration": "doshairetaih kulaghnanam varnasankarakarakaih |\nutsadyante jatidharmah kuladharmashcha shashvatah ||",
+      "hindi": "कुल के विनाश से उत्पन्न होने वाले इन दोषों के कारण समुदाय और परिवार की पुरानी कल्याणकारी परंपराएँ समाप्त हो जाती हैं।",
+      "english": "Through the ruin caused by destroying families, longstanding community ethics and nurturing family traditions fade away."
+    },
+    {
+      "chapter": 1,
+      "verse": 44,
+      "speaker": "",
+      "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन।\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम॥",
+      "transliteration": "utsannakuladharmanam manushyanam janardana |\nnarake niyatam vaso bhavatityanushushruma ||",
+      "hindi": "हे जनार्दन! हमने बड़ों से सुना है कि जिन लोगों की पारिवारिक मर्यादा नष्ट हो जाती है, उन्हें लंबे समय तक दुख भोगना पड़ता है।",
+      "english": "O Janardana, we have heard from elders that those whose family ethics are destroyed suffer lasting anguish."
+    },
+    {
+      "chapter": 1,
+      "verse": 45,
+      "speaker": "",
+      "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः॥",
+      "transliteration": "aho bata mahatpapam kartum vyavasita vayam |\nyadrajyasukhalobhena hantum svajanamudyatah ||",
+      "hindi": "कितने दुख की बात है कि हम राज्य और सुख के लोभ में अपने ही प्रियजनों का वध करने जैसा बड़ा अनर्थ करने को तैयार हो गए हैं।",
+      "english": "Alas, how tragic it is that out of desire for royal comfort, we are prepared to commit the grave wrong of harming our own loved ones."
+    },
+    {
+      "chapter": 1,
+      "verse": 46,
+      "speaker": "",
+      "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्॥",
+      "transliteration": "yadi mamapratikaramashastram shastrapanayah |\ndhartarashtra rane hanyustanme kshemataram bhavet ||",
+      "hindi": "यदि शस्त्रधारी कौरव युद्धभूमि में निहत्थे और बिना प्रतिरोध करते हुए मुझे मार डालें, तो वह मेरे लिए अधिक शांतिदायक होगा।",
+      "english": "If the armed sons of Dhritarashtra were to strike me down while I stood unarmed and unresisting, that would feel far better to me."
+    },
+    {
+      "chapter": 1,
+      "verse": 47,
+      "speaker": "सञ्जय उवाच",
+      "sanskrit": "एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत्।\nविसृज्य सशरं चापं शोकसंविग्नमानसः॥",
+      "transliteration": "evamuktvārjunah sankhye rathopastha upavishat |\nvisrijya sasharam chapam shokasamvignamanasah ||",
+      "hindi": "संजय बोले: युद्धभूमि में इतना कहकर, शोक से व्याकुल मन वाले अर्जुन ने अपना धनुष और बाण एक ओर रख दिए और रथ के पिछले भाग में बैठ गए।",
+      "english": "Sanjaya said: Having spoken thus on the battlefield, Arjuna laid aside his bow and arrows and sank down into the seat of his chariot, his heart heavy with sorrow."
+    }
+  ]
+}
